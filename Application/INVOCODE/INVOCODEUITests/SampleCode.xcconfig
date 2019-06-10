@@ -1,0 +1,11 @@
+//
+//  SampleCode.xcconfig
+//  INVOCODE
+//
+//  Created by Edward Bonsu on 09/05/2019.
+//  Copyright © 2019 Edward Bonsu. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+SAMPLE_CODE_DISAMBIGUATOR=${DEVELOPMENT_TEAM}
